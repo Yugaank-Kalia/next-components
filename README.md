@@ -13,7 +13,7 @@ interfaces and provide consistent design patterns across your projects.
 -   usage
 -   available components
 -   customization
--   contributing
+-   screenshots
 
 ## Introduction
 
@@ -46,7 +46,7 @@ navigate to the specific component: change directory to {specific component} dir
 
 -   remember to include the necessary CSS and JSX files for the components you are using. Detailed usage instructions can be found in each component's folder.
 
-### Available Components
+## Available Components
 
 The Component Template Library includes the following components :
 
@@ -79,6 +79,25 @@ more to be added in the future...
 -   the next components library is open-source and available under the MIT License. Feel free to use, modify, and distribute the components as per the terms of the license.
 
 -   thank you for using the next components library! We hope it simplifies your web development process and enhances your projects. If you have any questions or feedback, please don't hesitate to get in touch with us. **Happy Coding! 🧑‍💻🚀**
+
+## Screenshots
+
+#### Order Summary
+
+![](https://awesomescreenshot.s3.amazonaws.com/image/4715883/42059402-b7df4b867ac5d9313d8e5c33d06bef8a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20230807%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230807T210700Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=6a44471f37b065b5181cc639599f1dbe84720b32e2ed24d5db24171207dcb603)
+
+#### Product Card
+
+![](https://awesomescreenshot.s3.amazonaws.com/image/4715883/42059437-691a05f6f0dc26f8a5bcd1687cdac3aa.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20230807%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230807T210853Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=2610865b032ea65788aa6963a4fbb4103cdd18cb097851b5b0280fcda1b05f07)
+
+#### Rating Component
+
+![](https://awesomescreenshot.s3.amazonaws.com/image/4715883/42059495-0511321f59d6f821fff420026c8591a4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20230807%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230807T211216Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=0e06c5d58be62c0c59f02fa2ea36b8ef6c4b903fa5c54fe680f1d098b08111d0)
+![](https://awesomescreenshot.s3.amazonaws.com/image/4715883/42059514-db5ea41e8e9670a9cd889977749138c4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20230807%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230807T211333Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=4279a903eb9ca11f75d523130f9406dc1cafba823eddd1f0cbf7379471ce18aa)
+
+#### Result Summary
+
+![](https://awesomescreenshot.s3.amazonaws.com/image/4715883/42059623-0bd91cb1daf8c75d48099745d445bd40.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20230807%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230807T211922Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=287eca71e7531c0d7067ebb71b4fc4d2ed523cb8b50c0ef99e318f3c5fd05fd6)
 
 ## Acknowledgements
 

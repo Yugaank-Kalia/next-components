@@ -6,7 +6,7 @@ import reaction from "public/icon-reaction.svg";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between bg-pale-blue p-24">
+    <main className="flex min-h-screen flex-col items-center justify-center bg-pale-blue p-24">
       <div className="flex w-[500px] rounded-3xl bg-white">
         <div className="flex w-[50%] flex-col items-center justify-between gap-4 rounded-3xl bg-gradient-to-b from-slate-blue-light to-slate-blue-dark px-4 py-14">
           <div className="text-sm text-pale-blue">Your Result</div>
@@ -34,7 +34,7 @@ export default function Home() {
             <li className="flex justify-between rounded-lg bg-orange-yellow/5 p-3 text-sm text-black">
               <div className="flex gap-1">
                 <Image src={memory} alt="icon" />
-                <span className="text-orange-yellow">Reaction</span>
+                <span className="text-orange-yellow">Memory</span>
               </div>
               <div className="text-dark-gray-blue">
                 92<span className="text-gray-400"> / 100</span>
@@ -43,7 +43,7 @@ export default function Home() {
             <li className="flex justify-between rounded-lg bg-green-teal/5 p-3 text-sm text-black">
               <div className="flex gap-1">
                 <Image src={verbal} alt="icon" />
-                <span className="text-green-teal">Reaction</span>
+                <span className="text-green-teal">Verbal</span>
               </div>
               <div className="text-dark-gray-blue">
                 61<span className="text-gray-400"> / 100</span>
@@ -52,7 +52,7 @@ export default function Home() {
             <li className="flex justify-between rounded-lg bg-cobalt-blue/5 p-3 text-sm text-black">
               <div className="flex gap-1">
                 <Image src={visual} alt="icon" />
-                <span className="text-cobalt-blue">Reaction</span>
+                <span className="text-cobalt-blue">Visual</span>
               </div>
               <div className="text-dark-gray-blue">
                 72<span className="text-gray-400"> / 100</span>
