@@ -84,20 +84,20 @@ more to be added in the future...
 
 #### Order Summary
 
-![](https://awesomescreenshot.s3.amazonaws.com/image/4715883/42059402-b7df4b867ac5d9313d8e5c33d06bef8a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20230807%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230807T210700Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=6a44471f37b065b5181cc639599f1dbe84720b32e2ed24d5db24171207dcb603)
+![](order_summary/assets/design/desktop-design.jpg)
 
 #### Product Card
 
-![](https://awesomescreenshot.s3.amazonaws.com/image/4715883/42059437-691a05f6f0dc26f8a5bcd1687cdac3aa.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20230807%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230807T210853Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=2610865b032ea65788aa6963a4fbb4103cdd18cb097851b5b0280fcda1b05f07)
+![](product_card/assets/design/desktop-design.jpg)
 
 #### Rating Component
 
-![](https://awesomescreenshot.s3.amazonaws.com/image/4715883/42059495-0511321f59d6f821fff420026c8591a4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20230807%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230807T211216Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=0e06c5d58be62c0c59f02fa2ea36b8ef6c4b903fa5c54fe680f1d098b08111d0)
-![](https://awesomescreenshot.s3.amazonaws.com/image/4715883/42059514-db5ea41e8e9670a9cd889977749138c4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20230807%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230807T211333Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=4279a903eb9ca11f75d523130f9406dc1cafba823eddd1f0cbf7379471ce18aa)
+![](rating_component/assets/design/desktop-design.jpg)
+![](rating_component/assets/design/desktop-thank-you-state.jpg)
 
 #### Result Summary
 
-![](https://awesomescreenshot.s3.amazonaws.com/image/4715883/42059623-0bd91cb1daf8c75d48099745d445bd40.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20230807%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230807T211922Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=287eca71e7531c0d7067ebb71b4fc4d2ed523cb8b50c0ef99e318f3c5fd05fd6)
+![](results_summary/public/results-summary-component-main/design/desktop-design.jpg)
 
 ## Acknowledgements
 
