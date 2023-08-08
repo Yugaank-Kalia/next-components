@@ -69,6 +69,10 @@ summary of test results in a visually appealing and user-friendly manner. It pro
 quick overview of key findings or metrics, helping users to grasp the main insights at a
 glance.
 
+FAQ accordian: is a user interface element designed to present Frequently Asked Questions (FAQs) in an organized and interactive manner. It enhances user experience by allowing them to expand and collapse individual FAQ sections, providing quick access to relevant information and reducing clutter on the page.
+
+Rental Card: is a UI element designed to display essential information about a rental property, such as an apartment or a house, in a visually appealing and user-friendly format. It provides potential renters with a snapshot of key details about the property, making it easier for them to evaluate whether the rental meets their needs.
+
 more to be added in the future...
 ```
 
@@ -98,6 +102,14 @@ more to be added in the future...
 #### Result Summary
 
 ![](results_summary/public/results-summary-component-main/design/desktop-design.jpg)
+
+#### FAQ Accordian
+
+![](faq_component/assets/design/desktop-design.jpg)
+
+#### Rental Card
+
+![](rental_card/assets/rental_card.png)
 
 ## Acknowledgements
 
