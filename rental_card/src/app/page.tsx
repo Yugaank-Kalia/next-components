@@ -1,5 +1,7 @@
-import Link from 'next/link';
 import Image from 'next/image';
+import Link from 'next/link';
+import bed from 'assets/bed-double-heart-svgrepo-com.svg';
+import shower from 'assets/shower-svgrepo-com.svg';
 
 const Star = () => {
 	return (
@@ -16,24 +18,47 @@ const Star = () => {
 export default function Home() {
 	return (
 		<main className='flex min-h-screen flex-col items-center justify-center p-24 bg-slate-700'>
-			<div className='flex gap-4 pb-4 flex-col w-96 rounded-xl bg-cream hover:rounded-t-xl'>
+			<div className='flex gap-4 pb-4 flex-col w-[500px] rounded-xl bg-cream hover:rounded-t-xl'>
 				<div className='w-full overflow-hidden hover:rounded-t-xl'>
 					<Image
 						src='https://images.unsplash.com/photo-1475855581690-80accde3ae2b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80'
 						width={750}
 						height={100}
-						alt='house'
+						alt='property'
 						className='rounded-t-xl hover:scale-110 transition cursor-pointer object-cover'
 					/>
 				</div>
-				<div className='flex py-4 pl-4'>
-					<h3 className='bg-orange-200 px-4 rounded-full uppercase font-medium text-xs py-1'>
-						Tampa Bay, Florida, USA
-					</h3>
+				<div className='flex items-center justify-between pr-4'>
+					<div className='flex py-4'>
+						<h3 className='bg-orange-200 px-4 rounded-full uppercase font-medium text-xs py-1 ml-4'>
+							Tampa Bay, Florida, USA
+						</h3>
+					</div>
+					<div className='flex py-2 px-4 rounded-full bg-orange-200'>
+						<div className='flex items-center'>
+							<Image
+								src={bed}
+								alt='bed'
+								height={50}
+								className='h-7'
+							/>
+							<h3 className='font-medium text-xs'>6</h3>
+						</div>
+						<div className='flex items-center'>
+							<Image
+								src={shower}
+								alt='shower'
+								height={50}
+								className='h-7'
+							/>
+							<h3 className='font-medium text-xs'>6</h3>
+						</div>
+					</div>
 				</div>
+
 				<div className='flex flex-col pl-6'>
 					<h1 className='font-semibold'>
-						Luxurious Property in Tampa Bay Florida
+						Luxurious Villa in Tampa Bay Florida
 					</h1>
 					<p className='font-normal pb-4 text-xs'>
 						Description of the Property
@@ -47,7 +72,7 @@ export default function Home() {
 						<Star />
 						<Star />
 						<Star />
-						<Link href='/' className='pr-6 flex gap-2'>
+						<Link href='/' className='pr-4 flex gap-2'>
 							<span className='text-sm font-medium underline decoration-dotted pl-1'>
 								36 reviews
 							</span>
