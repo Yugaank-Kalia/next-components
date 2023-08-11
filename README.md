@@ -80,8 +80,8 @@ potential renters with a snapshot of key details about the property, making it e
 evaluate whether the rental meets their needs.
 
 Credit Card: is an essential building block for any modern financial or e-commerce application.
-It provides a user-friendly and visually appealing way to capture and display credit card information
-securely. With its sleek design and customizable options, the component streamlines the
+It provides a user-friendly and visually appealing way to capture and display credit card
+information securely. With its sleek design and customizable options, the component streamlines the
 process of inputting and validating credit card details, enhancing the overall user experience.
 
 more to be added in the future...
