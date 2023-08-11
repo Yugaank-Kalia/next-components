@@ -55,7 +55,6 @@ export default function Home() {
 						</div>
 					</div>
 				</div>
-
 				<div className='flex flex-col pl-6'>
 					<h1 className='font-semibold'>
 						Luxurious Villa in Tampa Bay Florida

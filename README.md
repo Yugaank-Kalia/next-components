@@ -79,6 +79,11 @@ such as an apartment or a house, in a visually appealing and user-friendly forma
 potential renters with a snapshot of key details about the property, making it easier for them to
 evaluate whether the rental meets their needs.
 
+Credit Card: is an essential building block for any modern financial or e-commerce application.
+It provides a user-friendly and visually appealing way to capture and display credit card information
+securely. With its sleek design and customizable options, the component streamlines the
+process of inputting and validating credit card details, enhancing the overall user experience.
+
 more to be added in the future...
 ```
 
@@ -116,6 +121,11 @@ more to be added in the future...
 #### Rental Card
 
 ![](rental_card/assets/rental_card.png)
+
+#### Credit Card Page
+
+![](credit_card/assets/images/credit_card.png)
+![](credit_card/assets/images/credit_card_2.png)
 
 ## Acknowledgements
 
